@@ -262,10 +262,8 @@
   }
 
   function updateStats() {
-    const countries = new Set(places.map((p) => p.country).filter(Boolean));
     const photoCount = places.reduce((sum, p) => sum + (p.photos || []).length, 0);
     document.getElementById("stat-places").textContent = String(places.length);
-    document.getElementById("stat-countries").textContent = String(countries.size);
     document.getElementById("stat-photos").textContent = String(photoCount);
   }
 
