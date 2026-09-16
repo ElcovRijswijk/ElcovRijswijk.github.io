@@ -19,8 +19,8 @@
     ]
   },
   {
-    "title": "Portfolio & Travel Map",
-    "description": "This site: a static, dependency-light portfolio with a Leaflet-powered photo map and JSON-driven content. With the kind help of AI agents, but always important to understand the what and why behind the code.",
+    "title": "Portfolio Website",
+    "description": "This site: a static, dependency-light portfolio with JSON-driven content. With the kind help of AI agents, but always important to understand the what and why behind the code.",
     "tags": [
       "JavaScript",
       "json"
