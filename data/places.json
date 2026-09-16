@@ -1,0 +1,249 @@
+[
+  {
+    "name": "Ko Phi Phi",
+    "country": "Thailand",
+    "lat": 7.733333,
+    "lng": 98.766667,
+    "note": "Island landscapes and tropical beaches around Ko Phi Phi, Thailand.",
+    "photos": [
+      { "src": "assets/photos/AS/TH_1.JPEG", "thumb": "assets/photos/AS/TH_1.JPEG", "caption": "Ko Phi Phi coast" },
+      { "src": "assets/photos/AS/TH_2.JPEG", "thumb": "assets/photos/AS/TH_2.JPEG", "caption": "Ko Phi Phi landscape" }
+    ]
+  },
+  {
+    "name": "Jewel Changi Airport",
+    "country": "Singapore",
+    "lat": 1.3644,
+    "lng": 103.9915,
+    "note": "Jewel Changi Airport's Rain Vortex and indoor garden architecture in Singapore.",
+    "photos": [
+      { "src": "assets/photos/AS/MA.JPEG", "thumb": "assets/photos/AS/MA.JPEG", "caption": "Jewel Changi Airport" }
+    ]
+  },
+  {
+    "name": "Austria",
+    "country": "Austria",
+    "lat": 47.2692,
+    "lng": 11.4041,
+    "note": "Alpine landscapes and mountain scenery from Austria.",
+    "photos": [
+      { "src": "assets/photos/EU/AS.JPEG", "thumb": "assets/photos/EU/AS.JPEG", "caption": "Austrian Alps" }
+    ]
+  },
+  {
+    "name": "Belgium",
+    "country": "Belgium",
+    "lat": 50.8503,
+    "lng": 4.3517,
+    "note": "Travel scenes from Belgium.",
+    "photos": [
+      { "src": "assets/photos/EU/BE.JPEG", "thumb": "assets/photos/EU/BE.JPEG", "caption": "Belgium" }
+    ]
+  },
+  {
+    "name": "Adršpach Rocks",
+    "country": "Czechia",
+    "lat": 50.6178,
+    "lng": 16.1167,
+    "note": "Snow-covered sandstone rock formations in the Adršpach region.",
+    "photos": [
+      { "src": "assets/photos/EU/CP.JPEG", "thumb": "assets/photos/EU/CP.JPEG", "caption": "Adršpach sandstone formations" }
+    ]
+  },
+  {
+    "name": "Plitvice Lakes",
+    "country": "Croatia",
+    "lat": 44.8654,
+    "lng": 15.5820,
+    "note": "Turquoise lakes and forested waterfalls in Croatia's Plitvice Lakes National Park.",
+    "photos": [
+      { "src": "assets/photos/EU/CR_1.JPEG", "thumb": "assets/photos/EU/CR_1.JPEG", "caption": "Plitvice Lakes" },
+      { "src": "assets/photos/EU/CR_2.JPEG", "thumb": "assets/photos/EU/CR_2.JPEG", "caption": "Croatian lakes and waterfalls" }
+    ]
+  },
+  {
+    "name": "Chamonix",
+    "country": "France",
+    "lat": 45.9237,
+    "lng": 6.8694,
+    "note": "Alpine valleys and high mountain scenery in the French Alps.",
+    "photos": [
+      { "src": "assets/photos/EU/FR.JPEG", "thumb": "assets/photos/EU/FR.JPEG", "caption": "French Alps" }
+    ]
+  },
+  {
+    "name": "Berlin",
+    "country": "Germany",
+    "lat": 52.5200,
+    "lng": 13.4050,
+    "note": "Urban and historic scenes from Germany.",
+    "photos": [
+      { "src": "assets/photos/EU/GE.JPEG", "thumb": "assets/photos/EU/GE.JPEG", "caption": "Berlin" }
+    ]
+  },
+  {
+    "name": "Iceland",
+    "country": "Iceland",
+    "lat": 64.1466,
+    "lng": -21.9426,
+    "note": "Glaciers, waterfalls, volcanic landscapes and northern skies from Iceland.",
+    "photos": [
+      { "src": "assets/photos/EU/IC_1.JPEG", "thumb": "assets/photos/EU/IC_1.JPEG", "caption": "Icelandic landscape" },
+      { "src": "assets/photos/EU/IC_2.JPEG", "thumb": "assets/photos/EU/IC_2.JPEG", "caption": "Icelandic waterfall" },
+      { "src": "assets/photos/EU/IC_3.JPEG", "thumb": "assets/photos/EU/IC_3.JPEG", "caption": "Icelandic mountains" },
+      { "src": "assets/photos/EU/IC_4.JPEG", "thumb": "assets/photos/EU/IC_4.JPEG", "caption": "Icelandic river landscape" }
+    ]
+  },
+  {
+    "name": "Dolomites",
+    "country": "Italy",
+    "lat": 46.5405,
+    "lng": 11.7700,
+    "note": "Mountain landscapes from the Italian Alps and Dolomites.",
+    "photos": [
+      { "src": "assets/photos/EU/IT_1.JPEG", "thumb": "assets/photos/EU/IT_1.JPEG", "caption": "Italian Alps" },
+      { "src": "assets/photos/EU/IT_2.JPEG", "thumb": "assets/photos/EU/IT_2.JPEG", "caption": "Dolomite mountains" },
+      { "src": "assets/photos/EU/IT_3.JPEG", "thumb": "assets/photos/EU/IT_3.JPEG", "caption": "Italian mountain scenery" }
+    ]
+  },
+  {
+    "name": "Randwijk",
+    "country": "Netherlands",
+    "lat": 51.9547,
+    "lng": 5.6876,
+    "note": "Dutch river landscapes and lowland countryside.",
+    "photos": [
+      { "src": "assets/photos/EU/NL.JPEG", "thumb": "assets/photos/EU/NL.JPEG", "caption": "Sunset over the Dutch river landscape" }
+    ]
+  },
+  {
+    "name": "Madeira",
+    "country": "Portugal",
+    "lat": 32.7607,
+    "lng": -17.0200,
+    "note": "Atlantic island landscapes, cliffs, mountains and volcanic coastlines from Madeira.",
+    "photos": [
+      { "src": "assets/photos/EU/PG_1.JPEG", "thumb": "assets/photos/EU/PG_1.JPEG", "caption": "Madeira landscape" },
+      { "src": "assets/photos/EU/PG_2.JPEG", "thumb": "assets/photos/EU/PG_2.JPEG", "caption": "Madeira coast" }
+    ]
+  },
+  {
+    "name": "Glencoe",
+    "country": "United Kingdom",
+    "lat": 56.6828,
+    "lng": -5.1029,
+    "note": "Scottish Highland landscapes, valleys and rugged coastlines.",
+    "photos": [
+      { "src": "assets/photos/EU/SC.JPEG", "thumb": "assets/photos/EU/SC.JPEG", "caption": "Scottish Highlands" }
+    ]
+  },
+  {
+    "name": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3874,
+    "lng": 2.1686,
+    "note": "Urban, coastal and mountain scenes from Spain.",
+    "photos": [
+      { "src": "assets/photos/EU/SP_1.jpg", "thumb": "assets/photos/EU/SP_1.jpg", "caption": "Spain" },
+      { "src": "assets/photos/EU/SP_2.JPEG", "thumb": "assets/photos/EU/SP_2.JPEG", "caption": "Spanish landscape" },
+      { "src": "assets/photos/EU/SP_3.JPEG", "thumb": "assets/photos/EU/SP_3.JPEG", "caption": "Spanish coast" }
+    ]
+  },
+  {
+    "name": "Tatra Mountains",
+    "country": "Slovakia",
+    "lat": 49.1667,
+    "lng": 20.1333,
+    "note": "Mountain landscapes from the High Tatras in Slovakia.",
+    "photos": [
+      { "src": "assets/photos/EU/SV.JPEG", "thumb": "assets/photos/EU/SV.JPEG", "caption": "Tatra Mountains" }
+    ]
+  },
+  {
+    "name": "Matterhorn",
+    "country": "Switzerland",
+    "lat": 45.9764,
+    "lng": 7.6586,
+    "note": "High alpine landscapes and the Matterhorn region near Zermatt.",
+    "photos": [
+      { "src": "assets/photos/EU/SZ_1.JPEG", "thumb": "assets/photos/EU/SZ_1.JPEG", "caption": "Swiss Alps" },
+      { "src": "assets/photos/EU/SZ_2.JPEG", "thumb": "assets/photos/EU/SZ_2.JPEG", "caption": "Matterhorn region" }
+    ]
+  },
+  {
+    "name": "Zion National Park",
+    "country": "United States",
+    "lat": 37.2982,
+    "lng": -113.0263,
+    "note": "Red-rock canyon walls, desert roads and dramatic sandstone landscapes in Zion National Park, Utah.",
+    "photos": [
+      { "src": "assets/photos/NA/US_1.JPEG", "thumb": "assets/photos/NA/US_1.JPEG", "caption": "Zion canyon landscape" },
+      { "src": "assets/photos/NA/US_2.JPEG", "thumb": "assets/photos/NA/US_2.JPEG", "caption": "Zion sandstone cliffs" },
+      { "src": "assets/photos/NA/US_3.JPEG", "thumb": "assets/photos/NA/US_3.JPEG", "caption": "Zion canyon country" }
+    ]
+  },
+  {
+    "name": "San Diego",
+    "country": "United States",
+    "lat": 32.7157,
+    "lng": -117.1611,
+    "note": "Coastal city scenes and Pacific shoreline landscapes from San Diego, California.",
+    "photos": [
+      { "src": "assets/photos/NA/US_4.JPEG", "thumb": "assets/photos/NA/US_4.JPEG", "caption": "San Diego coast" },
+      { "src": "assets/photos/NA/US_5.JPEG", "thumb": "assets/photos/NA/US_5.JPEG", "caption": "San Diego shoreline" }
+    ]
+  },
+  {
+    "name": "New Zealand",
+    "country": "New Zealand",
+    "lat": -43.7345,
+    "lng": 170.0965,
+    "note": "Southern Alps, glacial valleys, lakes and rugged coasts across New Zealand.",
+    "photos": [
+      { "src": "assets/photos/OC/NZ_1.JPEG", "thumb": "assets/photos/OC/NZ_1.JPEG", "caption": "New Zealand landscape" },
+      { "src": "assets/photos/OC/NZ_2.JPEG", "thumb": "assets/photos/OC/NZ_2.JPEG", "caption": "New Zealand mountains" },
+      { "src": "assets/photos/OC/NZ_3.JPEG", "thumb": "assets/photos/OC/NZ_3.JPEG", "caption": "Southern Alps" },
+      { "src": "assets/photos/OC/NZ_4.JPEG", "thumb": "assets/photos/OC/NZ_4.JPEG", "caption": "New Zealand coast" },
+      { "src": "assets/photos/OC/NZ_5.JPEG", "thumb": "assets/photos/OC/NZ_5.JPEG", "caption": "New Zealand river valley" },
+      { "src": "assets/photos/OC/NZ_6.JPEG", "thumb": "assets/photos/OC/NZ_6.JPEG", "caption": "New Zealand alpine scenery" },
+      { "src": "assets/photos/OC/NZ_7.JPEG", "thumb": "assets/photos/OC/NZ_7.JPEG", "caption": "New Zealand coast" },
+      { "src": "assets/photos/OC/NZ_8.JPEG", "thumb": "assets/photos/OC/NZ_8.JPEG", "caption": "New Zealand mountains" },
+      { "src": "assets/photos/OC/NZ_9.JPEG", "thumb": "assets/photos/OC/NZ_9.JPEG", "caption": "New Zealand valley" },
+      { "src": "assets/photos/OC/NZ_10.JPEG", "thumb": "assets/photos/OC/NZ_10.JPEG", "caption": "New Zealand landscape" },
+      { "src": "assets/photos/OC/NZ_11.JPEG", "thumb": "assets/photos/OC/NZ_11.JPEG", "caption": "New Zealand mountains" },
+      { "src": "assets/photos/OC/NZ_12.JPEG", "thumb": "assets/photos/OC/NZ_12.JPEG", "caption": "New Zealand alpine scenery" },
+      { "src": "assets/photos/OC/NZ_13.JPEG", "thumb": "assets/photos/OC/NZ_13.JPEG", "caption": "New Zealand landscape" },
+      { "src": "assets/photos/OC/NZ_14.JPEG", "thumb": "assets/photos/OC/NZ_14.JPEG", "caption": "New Zealand mountains" },
+      { "src": "assets/photos/OC/NZ_15.JPEG", "thumb": "assets/photos/OC/NZ_15.JPEG", "caption": "New Zealand coast" },
+      { "src": "assets/photos/OC/NZ_16.JPEG", "thumb": "assets/photos/OC/NZ_16.JPEG", "caption": "New Zealand valley" },
+      { "src": "assets/photos/OC/NZ_17.JPEG", "thumb": "assets/photos/OC/NZ_17.JPEG", "caption": "New Zealand alpine scenery" },
+      { "src": "assets/photos/OC/NZ_18.JPEG", "thumb": "assets/photos/OC/NZ_18.JPEG", "caption": "New Zealand mountains" },
+      { "src": "assets/photos/OC/NZ_19.JPEG", "thumb": "assets/photos/OC/NZ_19.JPEG", "caption": "New Zealand landscape" },
+      { "src": "assets/photos/OC/NZ_20.JPEG", "thumb": "assets/photos/OC/NZ_20.JPEG", "caption": "New Zealand coast" }
+    ]
+  },
+  {
+    "name": "Naviti Islands",
+    "country": "Fiji",
+    "lat": -17.11631,
+    "lng": 177.201269,
+    "note": "Sandy beaches and clear waters of the Naviti Islands.",
+    "photos": [
+      { "src": "assets/photos/OC/FJ_1.JPEG", "thumb": "assets/photos/OC/FJ_1.JPEG", "caption": "Fiji islands" },
+      { "src": "assets/photos/OC/FJ_2.JPEG", "thumb": "assets/photos/OC/FJ_2.JPEG", "caption": "Fiji beach" }
+    ]
+  },
+  {
+    "name": "Guatemala",
+    "country": "Guatemala",
+    "lat": 14.4747,
+    "lng": -90.8808,
+    "note": "Tropical forests, limestone rivers and volcanic landscapes from Guatemala.",
+    "photos": [
+      { "src": "assets/photos/SA/GM_2.JPEG", "thumb": "assets/photos/SA/GM_2.JPEG", "caption": "Guatemalan river landscape" },
+      { "src": "assets/photos/SA/GM_3.JPEG", "thumb": "assets/photos/SA/GM_3.JPEG", "caption": "Guatemalan landscape" },
+      { "src": "assets/photos/SA/GM_4.JPEG", "thumb": "assets/photos/SA/GM_4.JPEG", "caption": "Guatemala" },
+      { "src": "assets/photos/SA/GU1.JPEG", "thumb": "assets/photos/SA/GU1.JPEG", "caption": "Volcán de Fuego at night" }
+    ]
+  }
+]

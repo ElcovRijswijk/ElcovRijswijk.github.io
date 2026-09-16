@@ -1,0 +1,23 @@
+[
+  
+  {
+    "title": "BINN-VAE",
+    "description": "BINN-VAE is a repository that contains the code and models to apply a Biologically Informed Neural Network Variational AutoEncoder for the use in single cell sequencing data. The model generates a Gene Ontology Directed Acyclic Graph from a input obo file and gene annotations. Based on this graph a Variational AutoEncoder can be trained on a input single cell sequencing matrix (.h5ad).",
+    "tags": ["Pytorch", "Scanpy"],
+    "image": "assets/projects/binn_vae.png",
+    "links": [
+      { "label": "Repo", "url": "https://github.com/ElcovRijswijk/BINN-VAE" },
+      { "label": "Demo", "url": "https://github.com/ElcovRijswijk/BINN-VAE/blob/main/BINN_VAE.ipynb" }
+    ]
+  },
+
+  {
+    "title": "Portfolio & Travel Map",
+    "description": "This site: a static, dependency-light portfolio with a Leaflet-powered photo map and JSON-driven content. With the kind help of AI agents, but always important to understand the what and why behind the code.",
+    "tags": ["JavaScript", "json"],
+    "image": "assets/projects/portfolio.png",
+    "links": [
+      { "label": "Source", "url": "https://github.com/" }
+    ]
+  }
+]
